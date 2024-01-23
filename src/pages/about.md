@@ -2,30 +2,18 @@
 title: About Me
 subtitle: ""
 metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
+date: 2024-01-23T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
+Hey there! I'm Balaji Chandrasekaran, and I'm way more than just a tech guy. I've been playing with computers for over 18 years, but outside of the IT world, life gets pretty interesting. I'm a big animal lover, and I spend my free time helping out with a local group that rescues stray dogs and other animals. It's amazing how much joy and fulfillment you can find in lending a helping hand to our furry friends.
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+But wait, there's more to me than just working with computers and saving animals. I've got this cool hobby – carpentry. Yep, I like building stuff, especially furniture for my friends. There's something awesome about turning raw materials into something useful with your own two hands.And let's not forget the adventure side of things! I love hitting the road on my motorcycle, exploring new places. And when I'm feeling a bit more daring, you might catch me paragliding through the skies. It's all about finding that balance between the tech world and the real world.
 
-### Why create this?
+So, if you're up for a journey that goes beyond the tech lingo, join me in this blend of digital and personal adventures. Let's navigate the twists and turns together, where every day is a chance to mix the virtual with the down-to-earth stuff. Can't wait to share more of the simple, real-life side of me with you!
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+<!--EndFragment-->
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
-
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
-
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
-
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
-
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+![Bike](/src/assets/img/motorcycle.jpg "Bike")
